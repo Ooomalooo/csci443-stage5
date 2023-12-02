@@ -6,4 +6,4 @@ This code uses the matplotlib library. As such, because there are multiple graph
 The means and standard deviations of the data are outputed to the console. 
 
 ## Running the Program
-Simply run `python stage5.py` in a console window or instead run it in your favorite IDE
+Simply run `python stage5.py` in a console window or instead run it in your favorite IDE.
