@@ -35,11 +35,15 @@ task8Success = np.array([])
 
 users = []
 
+misclickLabels = []
+timesLabels = []
+successLabels = []
+
 # Calculate Mean:
 # numpy.mean(some array)
 
 # Calculate Standard Deviation:
 # numpy.std(some array)
 
-plt.pie(y, labels = mylabels)
-plt.show() 
+#plt.pie(data, labels = mylabels)
+#plt.show() 
